@@ -1,5 +1,6 @@
 This repository contains the code to reproduce the results of the article: "A Novel Approach to Performance Evaluation of Current Controllers in Power Converters and Electric Drives Using Non-Parametric Analysis," by Gustavo Ignacio Rivas-Martínez, Jorge Rodas, Edher Herrera, and Jesús Doval-Gandoy; submission ID=9139 to IEEE Latin America Transactions.
-Description
+
+## Description
 
 In this study, in the real data section the performance of two types of controllers (MPC and M2PC) is evaluated in terms of their error and harmonic distortion. Specifically, the following metrics were used:
 - **Mean Squared Error (MSE):** Calculated for each controller type over 200 tests.
